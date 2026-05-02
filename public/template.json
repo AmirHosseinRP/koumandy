@@ -1,0 +1,250 @@
+{
+  "SCIENCE": {
+    "200": {
+      "question": "200 points science question",
+      "answer": "200 points science answer"
+    },
+    "400": {
+      "question": "400 points science question",
+      "answer": "400 points science answer"
+    },
+    "600": {
+      "question": "600 points science question",
+      "answer": "600 points science answer",
+      "options": ["600 points science option 1", "600 points science option 2", "600 points science option 3"]
+    },
+    "800": {
+      "question": "800 points science question",
+      "answer": "800 points science answer",
+      "options": ["800 points science option 1", "800 points science option 2", "800 points science option 3"]
+    },
+    "1000": {
+      "question": "1000 points science question",
+      "answer": "1000 points science answer"
+    }
+  },
+  "GENERAL_KNOWLEDGE": {
+    "200": {
+      "question": "200 points general knowledge question",
+      "answer": "200 points general knowledge answer"
+    },
+    "400": {
+      "question": "400 points general knowledge question",
+      "answer": "400 points general knowledge answer"
+    },
+    "600": {
+      "question": "600 points general knowledge question",
+      "answer": "600 points general knowledge answer",
+      "options": [
+        "600 points general knowledge option 1",
+        "600 points general knowledge option 2",
+        "600 points general knowledge option 3"
+      ]
+    },
+    "800": {
+      "question": "800 points general knowledge question",
+      "answer": "800 points general knowledge answer",
+      "options": [
+        "800 points general knowledge option 1",
+        "800 points general knowledge option 2",
+        "800 points general knowledge option 3"
+      ]
+    },
+    "1000": {
+      "question": "1000 points general knowledge question",
+      "answer": "1000 points general knowledge answer"
+    }
+  },
+  "HISTORY": {
+    "200": {
+      "question": "200 points history question",
+      "answer": "200 points history answer"
+    },
+    "400": {
+      "question": "400 points history question",
+      "answer": "400 points history answer"
+    },
+    "600": {
+      "question": "600 points history question",
+      "answer": "600 points history answer",
+      "options": ["600 points history option 1", "600 points history option 2", "600 points history option 3"]
+    },
+    "800": {
+      "question": "800 points history question",
+      "answer": "800 points history answer",
+      "options": ["800 points history option 1", "800 points history option 2", "800 points history option 3"]
+    },
+    "1000": {
+      "question": "1000 points history question",
+      "answer": "1000 points history answer"
+    }
+  },
+  "LITERATURE": {
+    "200": {
+      "question": "200 points literature question",
+      "answer": "200 points literature answer"
+    },
+    "400": {
+      "question": "400 points literature question",
+      "answer": "400 points literature answer"
+    },
+    "600": {
+      "question": "600 points literature question",
+      "answer": "600 points literature answer",
+      "options": ["600 points literature option 1", "600 points literature option 2", "600 points literature option 3"]
+    },
+    "800": {
+      "question": "800 points literature question",
+      "answer": "800 points literature answer",
+      "options": ["800 points literature option 1", "800 points literature option 2", "800 points literature option 3"]
+    },
+    "1000": {
+      "question": "1000 points literature question",
+      "answer": "1000 points literature answer"
+    }
+  },
+  "FOOD_AND_DRINKS": {
+    "200": {
+      "question": "200 points food and drinks question",
+      "answer": "200 points food and drinks answer"
+    },
+    "400": {
+      "question": "400 points food and drinks question",
+      "answer": "400 points food and drinks answer"
+    },
+    "600": {
+      "question": "600 points food and drinks question",
+      "answer": "600 points food and drinks answer",
+      "options": [
+        "600 points food and drinks option 1",
+        "600 points food and drinks option 2",
+        "600 points food and drinks option 3"
+      ]
+    },
+    "800": {
+      "question": "800 points food and drinks question",
+      "answer": "800 points food and drinks answer",
+      "options": [
+        "800 points food and drinks option 1",
+        "800 points food and drinks option 2",
+        "800 points food and drinks option 3"
+      ]
+    },
+    "1000": {
+      "question": "1000 points food and drinks question",
+      "answer": "1000 points food and drinks answer"
+    }
+  },
+  "ART": {
+    "200": {
+      "question": "200 points art question",
+      "answer": "200 points art answer"
+    },
+    "400": {
+      "question": "400 points art question",
+      "answer": "400 points art answer"
+    },
+    "600": {
+      "question": "600 points art question",
+      "answer": "600 points art answer",
+      "options": ["600 points art option 1", "600 points art option 2", "600 points art option 3"]
+    },
+    "800": {
+      "question": "800 points art question",
+      "answer": "800 points art answer",
+      "options": ["800 points art option 1", "800 points art option 2", "800 points art option 3"]
+    },
+    "1000": {
+      "question": "1000 points art question",
+      "answer": "1000 points art answer"
+    }
+  },
+  "SPORTS_AND_FUN_ACTIVITIES": {
+    "200": {
+      "question": "200 points sports and fun activities question",
+      "answer": "200 points sports and fun activities answer"
+    },
+    "400": {
+      "question": "400 points sports and fun activities question",
+      "answer": "400 points sports and fun activities answer"
+    },
+    "600": {
+      "question": "600 points sports and fun activities question",
+      "answer": "600 points sports and fun activities answer",
+      "options": [
+        "600 points sports and fun activities option 1",
+        "600 points sports and fun activities option 2",
+        "600 points sports and fun activities option 3"
+      ]
+    },
+    "800": {
+      "question": "800 points sports and fun activities question",
+      "answer": "800 points sports and fun activities answer",
+      "options": [
+        "800 points sports and fun activities option 1",
+        "800 points sports and fun activities option 2",
+        "800 points sports and fun activities option 3"
+      ]
+    },
+    "1000": {
+      "question": "1000 points sports and fun activities question",
+      "answer": "1000 points sports and fun activities answer"
+    }
+  },
+  "GAMES_MOVIES_AND_TV_SERIES": {
+    "200": {
+      "question": "200 points games movies and tv series question",
+      "answer": "200 points games movies and tv series answer"
+    },
+    "400": {
+      "question": "400 points games movies and tv series question",
+      "answer": "400 points games movies and tv series answer"
+    },
+    "600": {
+      "question": "600 points games movies and tv series question",
+      "answer": "600 points games movies and tv series answer",
+      "options": [
+        "600 points games movies and tv series option 1",
+        "600 points games movies and tv series option 2",
+        "600 points games movies and tv series option 3"
+      ]
+    },
+    "800": {
+      "question": "800 points games movies and tv series question",
+      "answer": "800 points games movies and tv series answer",
+      "options": [
+        "800 points games movies and tv series option 1",
+        "800 points games movies and tv series option 2",
+        "800 points games movies and tv series option 3"
+      ]
+    },
+    "1000": {
+      "question": "1000 points games movies and tv series question",
+      "answer": "1000 points games movies and tv series answer"
+    }
+  },
+  "GEOGRAPHY": {
+    "200": {
+      "question": "200 points geography question",
+      "answer": "200 points geography answer"
+    },
+    "400": {
+      "question": "400 points geography question",
+      "answer": "400 points geography answer"
+    },
+    "600": {
+      "question": "600 points geography question",
+      "answer": "600 points geography answer",
+      "options": ["600 points geography option 1", "600 points geography option 2", "600 points geography option 3"]
+    },
+    "800": {
+      "question": "800 points geography question",
+      "answer": "800 points geography answer",
+      "options": ["800 points geography option 1", "800 points geography option 2", "800 points geography option 3"]
+    },
+    "1000": {
+      "question": "1000 points geography question",
+      "answer": "1000 points geography answer"
+    }
+  }
+}
