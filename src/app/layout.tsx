@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import type { PropsWithChildren } from "react";
-import "./globals.css";
+import "~/shared/assets/globals.css";
 
 export const metadata: Metadata = {
   title: "Koumandy",

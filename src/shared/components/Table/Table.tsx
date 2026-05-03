@@ -12,7 +12,7 @@ interface Props {
 }
 
 const BaseTable = (props: PropsWithChildren<Props>) => {
-  return <div className="bg-blue-300 grid grid-cols-9 p-4 gap-3">{props.children}</div>;
+  return <div className="grid grid-cols-9 p-4 gap-3 max-w-7xl">{props.children}</div>;
 };
 
 const Table = BaseTable as ((props: PropsWithChildren) => JSX.Element) & CompoundProps;

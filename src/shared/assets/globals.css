@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "./fonts.css";
 
 :root {
   --background: #ffffff;
@@ -17,6 +18,10 @@
     --background: #2e2e2e;
     --foreground: #ededed;
   }
+}
+
+* {
+  font-family: "IRANSans", sans-serif;
 }
 
 body {
