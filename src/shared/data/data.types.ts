@@ -1,4 +1,4 @@
-export type Points = "200" | "400" | "600" | "800" | "1000";
+export type Point = "200" | "400" | "600" | "800" | "1000";
 
 export type Question = {
   question: string;
@@ -6,7 +6,7 @@ export type Question = {
   options?: string[];
 };
 
-export const CategoryKey = {
+export const Category = {
   SCIENCE: "SCIENCE",
   GENERAL_KNOWLEDGE: "GENERAL_KNOWLEDGE",
   HISTORY: "HISTORY",
@@ -18,22 +18,22 @@ export const CategoryKey = {
   GEOGRAPHY: "GEOGRAPHY",
 } as const;
 
-export type CategoryKey = (typeof CategoryKey)[keyof typeof CategoryKey];
+export type Category = (typeof Category)[keyof typeof Category];
 
-export function getCategory(key: CategoryKey) {
+export function getCategory(key: Category) {
   const values = {
-    [CategoryKey.SCIENCE]: { title: "علمی" },
-    [CategoryKey.GENERAL_KNOWLEDGE]: { title: "اطلاعات عمومی" },
-    [CategoryKey.HISTORY]: { title: "تاریخ" },
-    [CategoryKey.LITERATURE]: { title: "ادبیات" },
-    [CategoryKey.FOOD_AND_DRINKS]: { title: "غذا و نوشیدنی" },
-    [CategoryKey.ART]: { title: "هنر" },
-    [CategoryKey.SPORTS_AND_FUN_ACTIVITIES]: { title: "ورزش و سرگرمی" },
-    [CategoryKey.GAMES_MOVIES_AND_TV_SERIES]: { title: "گیم، فیلم و سریال" },
-    [CategoryKey.GEOGRAPHY]: { title: "جغرافیا" },
+    [Category.SCIENCE]: { title: "علمی", delay: 0.2 },
+    [Category.GENERAL_KNOWLEDGE]: { title: "اطلاعات عمومی", delay: 0.3 },
+    [Category.HISTORY]: { title: "تاریخ", delay: 0.4 },
+    [Category.LITERATURE]: { title: "ادبیات", delay: 0.5 },
+    [Category.FOOD_AND_DRINKS]: { title: "غذا و نوشیدنی", delay: 0.6 },
+    [Category.ART]: { title: "هنر", delay: 0.7 },
+    [Category.SPORTS_AND_FUN_ACTIVITIES]: { title: "ورزش و سرگرمی", delay: 0.8 },
+    [Category.GAMES_MOVIES_AND_TV_SERIES]: { title: "گیم، فیلم و سریال", delay: 0.9 },
+    [Category.GEOGRAPHY]: { title: "جغرافیا", delay: 1 },
   };
 
-  return values[CategoryKey[key]];
+  return values[Category[key]];
 }
 
-export type GameData = Record<CategoryKey, Record<Points, Question>>;
+export type GameData = Record<Category, Record<Point, Question>>;

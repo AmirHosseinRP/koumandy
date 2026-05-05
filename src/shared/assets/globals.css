@@ -2,8 +2,8 @@
 @import "./fonts.css";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #2e2e2e;
+  --foreground: #ededed;
 }
 
 @theme inline {

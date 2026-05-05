@@ -1,250 +1,218 @@
 {
   "SCIENCE": {
     "200": {
-      "question": "200 points science question",
-      "answer": "200 points science answer"
+      "question": "واحد اندازه‌گیری جریان الکتریکی چیست؟",
+      "answer": "آمپر"
     },
     "400": {
-      "question": "400 points science question",
-      "answer": "400 points science answer"
+      "question": "کدام سیاره به عنوان «سیاره سرخ» شناخته می‌شود؟",
+      "answer": "مریخ"
     },
     "600": {
-      "question": "600 points science question",
-      "answer": "600 points science answer",
-      "options": ["600 points science option 1", "600 points science option 2", "600 points science option 3"]
+      "question": "کدام بخش از سلول مسئول کنترل فعالیت‌های آن است؟",
+      "answer": "هسته",
+      "options": ["میتوکندری", "هسته", "ریبوزوم"]
     },
     "800": {
-      "question": "800 points science question",
-      "answer": "800 points science answer",
-      "options": ["800 points science option 1", "800 points science option 2", "800 points science option 3"]
+      "question": "کدام عنصر شیمیایی بیشترین فراوانی را در جو زمین دارد؟",
+      "answer": "نیتروژن",
+      "options": ["اکسیژن", "نیتروژن", "کربن دی‌اکسید"]
     },
     "1000": {
-      "question": "1000 points science question",
-      "answer": "1000 points science answer"
+      "question": "پدیده‌ای که نور هنگام عبور از منشور به رنگ‌های مختلف تقسیم می‌شود چه نام دارد؟",
+      "answer": "پراکندگی نور"
     }
   },
   "GENERAL_KNOWLEDGE": {
     "200": {
-      "question": "200 points general knowledge question",
-      "answer": "200 points general knowledge answer"
+      "question": "طول عمر طبیعی انسان به‌طور میانگین چند دهه است؟",
+      "answer": "حدود ۷ تا ۸ دهه"
     },
     "400": {
-      "question": "400 points general knowledge question",
-      "answer": "400 points general knowledge answer"
+      "question": "پرچم سازمان ملل متحد چه رنگی است؟",
+      "answer": "آبی با نقش سفید نقشه جهان و شاخه زیتون"
     },
     "600": {
-      "question": "600 points general knowledge question",
-      "answer": "600 points general knowledge answer",
-      "options": [
-        "600 points general knowledge option 1",
-        "600 points general knowledge option 2",
-        "600 points general knowledge option 3"
-      ]
+      "question": "کدام کشور بیشترین جمعیت جهان را دارد؟",
+      "answer": "چین",
+      "options": ["چین", "هند", "ایالات متحده"]
     },
     "800": {
-      "question": "800 points general knowledge question",
-      "answer": "800 points general knowledge answer",
-      "options": [
-        "800 points general knowledge option 1",
-        "800 points general knowledge option 2",
-        "800 points general knowledge option 3"
-      ]
+      "question": "پایتخت کشور استرالیا چیست؟",
+      "answer": "کانبرا",
+      "options": ["سیدنی", "ملبورن", "کانبرا"]
     },
     "1000": {
-      "question": "1000 points general knowledge question",
-      "answer": "1000 points general knowledge answer"
+      "question": "اولین زنی که به فضا رفت چه کسی بود؟",
+      "answer": "والنتینا ترشکوا"
     }
   },
   "HISTORY": {
     "200": {
-      "question": "200 points history question",
-      "answer": "200 points history answer"
+      "question": "کوروش بزرگ بنیان‌گذار کدام امپراتوری بود؟",
+      "answer": "هخامنشی"
     },
     "400": {
-      "question": "400 points history question",
-      "answer": "400 points history answer"
+      "question": "جنگ‌های جهانی در قرن چندم رخ دادند؟",
+      "answer": "قرن بیستم"
     },
     "600": {
-      "question": "600 points history question",
-      "answer": "600 points history answer",
-      "options": ["600 points history option 1", "600 points history option 2", "600 points history option 3"]
+      "question": "کدام کشور مبدأ انقلاب صنعتی بود؟",
+      "answer": "انگلستان",
+      "options": ["فرانسه", "آلمان", "انگلستان"]
     },
     "800": {
-      "question": "800 points history question",
-      "answer": "800 points history answer",
-      "options": ["800 points history option 1", "800 points history option 2", "800 points history option 3"]
+      "question": "ساخت دیوار بزرگ چین در دوران کدام سلسله آغاز شد؟",
+      "answer": "سلسله چین",
+      "options": ["هان", "چین", "تانگ"]
     },
     "1000": {
-      "question": "1000 points history question",
-      "answer": "1000 points history answer"
+      "question": "جنگ داخلی آمریکا بین چه سال‌هایی انجام شد؟",
+      "answer": "بین سال‌های ۱۸۶۱ تا ۱۸۶۵ میلادی"
     }
   },
   "LITERATURE": {
     "200": {
-      "question": "200 points literature question",
-      "answer": "200 points literature answer"
+      "question": "سعدی شیرازی نویسنده‌ی کدام اثر معروف است؟",
+      "answer": "گلستان"
     },
     "400": {
-      "question": "400 points literature question",
-      "answer": "400 points literature answer"
+      "question": "خالق اثر «هملت» کیست؟",
+      "answer": "ویلیام شکسپیر"
     },
     "600": {
-      "question": "600 points literature question",
-      "answer": "600 points literature answer",
-      "options": ["600 points literature option 1", "600 points literature option 2", "600 points literature option 3"]
+      "question": "کدام شاعر ایرانی به «ملک‌الشعرا» معروف است؟",
+      "answer": "بهار",
+      "options": ["حافظ", "صائب تبریزی", "بهار"]
     },
     "800": {
-      "question": "800 points literature question",
-      "answer": "800 points literature answer",
-      "options": ["800 points literature option 1", "800 points literature option 2", "800 points literature option 3"]
+      "question": "در شاهنامه، کدام پهلوان ایرانی با افراسیاب جنگید؟",
+      "answer": "رستم",
+      "options": ["رستم", "سهراب", "زال"]
     },
     "1000": {
-      "question": "1000 points literature question",
-      "answer": "1000 points literature answer"
+      "question": "رمان «جنایت و مکافات» اثر کیست؟",
+      "answer": "فئودور داستایوفسکی"
     }
   },
   "FOOD_AND_DRINKS": {
     "200": {
-      "question": "200 points food and drinks question",
-      "answer": "200 points food and drinks answer"
+      "question": "کدام خوراکی از تخمیر شیر به‌دست می‌آید؟",
+      "answer": "ماست"
     },
     "400": {
-      "question": "400 points food and drinks question",
-      "answer": "400 points food and drinks answer"
+      "question": "قهوه از دانه‌های چه گیاهی تهیه می‌شود؟",
+      "answer": "قهوه"
     },
     "600": {
-      "question": "600 points food and drinks question",
-      "answer": "600 points food and drinks answer",
-      "options": [
-        "600 points food and drinks option 1",
-        "600 points food and drinks option 2",
-        "600 points food and drinks option 3"
-      ]
+      "question": "منشأ اصلی غذای «پیتزا» کدام کشور است؟",
+      "answer": "ایتالیا",
+      "options": ["فرانسه", "ایتالیا", "اسپانیا"]
     },
     "800": {
-      "question": "800 points food and drinks question",
-      "answer": "800 points food and drinks answer",
-      "options": [
-        "800 points food and drinks option 1",
-        "800 points food and drinks option 2",
-        "800 points food and drinks option 3"
-      ]
+      "question": "در آشپزی ایرانی، خورش فسنجان معمولاً با چه ماده‌ای درست می‌شود؟",
+      "answer": "گردو و رب انار",
+      "options": ["بادام و زرشک", "گردو و رب انار", "پسته و تمر هندی"]
     },
     "1000": {
-      "question": "1000 points food and drinks question",
-      "answer": "1000 points food and drinks answer"
+      "question": "نوشیدنی سنتی ژاپنی که از برنج تهیه می‌شود چیست؟",
+      "answer": "ساکه (Sake)"
     }
   },
   "ART": {
     "200": {
-      "question": "200 points art question",
-      "answer": "200 points art answer"
+      "question": "نقاشی «مونالیزا» اثر کیست؟",
+      "answer": "لئوناردو داوینچی"
     },
     "400": {
-      "question": "400 points art question",
-      "answer": "400 points art answer"
+      "question": "ابزار اصلی هنر مجسمه‌سازی چیست؟",
+      "answer": "حجاری یا قالب‌گیری"
     },
     "600": {
-      "question": "600 points art question",
-      "answer": "600 points art answer",
-      "options": ["600 points art option 1", "600 points art option 2", "600 points art option 3"]
+      "question": "کدام سبک هنری با تناوب نقطه‌ها و رنگ‌گذاری دقیق شناخته می‌شود؟",
+      "answer": "امپرسیونیسم",
+      "options": ["کوبیسم", "امپرسیونیسم", "سوررئالیسم"]
     },
     "800": {
-      "question": "800 points art question",
-      "answer": "800 points art answer",
-      "options": ["800 points art option 1", "800 points art option 2", "800 points art option 3"]
+      "question": "پابلو پیکاسو از بنیان‌گذاران کدام سبک نقاشی بود؟",
+      "answer": "کوبیسم",
+      "options": ["رمانتیسم", "کوبیسم", "فوتوریسم"]
     },
     "1000": {
-      "question": "1000 points art question",
-      "answer": "1000 points art answer"
+      "question": "تابلوی معروف «شب پرستاره» اثر کیست؟",
+      "answer": "ونسان ون‌گوگ"
     }
   },
   "SPORTS_AND_FUN_ACTIVITIES": {
     "200": {
-      "question": "200 points sports and fun activities question",
-      "answer": "200 points sports and fun activities answer"
+      "question": "در فوتبال، هر تیم چند بازیکن در زمین دارد؟",
+      "answer": "۱۱ نفر"
     },
     "400": {
-      "question": "400 points sports and fun activities question",
-      "answer": "400 points sports and fun activities answer"
+      "question": "اولین دوره بازی‌های المپیک مدرن در چه سالی برگزار شد؟",
+      "answer": "۱۸۹۶ میلادی"
     },
     "600": {
-      "question": "600 points sports and fun activities question",
-      "answer": "600 points sports and fun activities answer",
-      "options": [
-        "600 points sports and fun activities option 1",
-        "600 points sports and fun activities option 2",
-        "600 points sports and fun activities option 3"
-      ]
+      "question": "کدام کشور بیشترین عنوان قهرمانی جام جهانی فوتبال را دارد؟",
+      "answer": "برزیل",
+      "options": ["آلمان", "آرژانتین", "برزیل"]
     },
     "800": {
-      "question": "800 points sports and fun activities question",
-      "answer": "800 points sports and fun activities answer",
-      "options": [
-        "800 points sports and fun activities option 1",
-        "800 points sports and fun activities option 2",
-        "800 points sports and fun activities option 3"
-      ]
+      "question": "در تنیس، واژه «Love» به چه معنی است؟",
+      "answer": "صفر امتیاز",
+      "options": ["برتری امتیاز", "صفر امتیاز", "شروع ست جدید"]
     },
     "1000": {
-      "question": "1000 points sports and fun activities question",
-      "answer": "1000 points sports and fun activities answer"
+      "question": "مایکل فلپس در کدام رشته ورزشی رکورددار مدال‌های المپیک است؟",
+      "answer": "شنا"
     }
   },
   "GAMES_MOVIES_AND_TV_SERIES": {
     "200": {
-      "question": "200 points games movies and tv series question",
-      "answer": "200 points games movies and tv series answer"
+      "question": "کاراکتر اصلی بازی ویدئویی «ماريو» چه شغلی دارد؟",
+      "answer": "لوله‌کش"
     },
     "400": {
-      "question": "400 points games movies and tv series question",
-      "answer": "400 points games movies and tv series answer"
+      "question": "سریال «بازی تاج و تخت» بر اساس آثار چه نویسنده‌ای ساخته شده است؟",
+      "answer": "جرج آر. آر. مارتین"
     },
     "600": {
-      "question": "600 points games movies and tv series question",
-      "answer": "600 points games movies and tv series answer",
-      "options": [
-        "600 points games movies and tv series option 1",
-        "600 points games movies and tv series option 2",
-        "600 points games movies and tv series option 3"
-      ]
+      "question": "کدام فیلم برنده بیشترین جایزه‌ی اسکار در تاریخ سینما شده است؟",
+      "answer": "تایتانیک",
+      "options": ["تایتانیک", "ارباب حلقه‌ها: بازگشت پادشاه", "بن‌هور"]
     },
     "800": {
-      "question": "800 points games movies and tv series question",
-      "answer": "800 points games movies and tv series answer",
-      "options": [
-        "800 points games movies and tv series option 1",
-        "800 points games movies and tv series option 2",
-        "800 points games movies and tv series option 3"
-      ]
+      "question": "در دنیای سینمای مارول، کدام ابرقهرمان چکش جادویی دارد؟",
+      "answer": "تُر (Thor)",
+      "options": ["تُر", "آیرون‌من", "کاپیتان آمریکا"]
     },
     "1000": {
-      "question": "1000 points games movies and tv series question",
-      "answer": "1000 points games movies and tv series answer"
+      "question": "کارگردان فیلم «تلقین» (Inception) کیست؟",
+      "answer": "کریستوفر نولان"
     }
   },
   "GEOGRAPHY": {
     "200": {
-      "question": "200 points geography question",
-      "answer": "200 points geography answer"
+      "question": "کوه دماوند در کدام کشور قرار دارد؟",
+      "answer": "ایران"
     },
     "400": {
-      "question": "400 points geography question",
-      "answer": "400 points geography answer"
+      "question": "طولانی‌ترین رود جهان چیست؟",
+      "answer": "رود نیل"
     },
     "600": {
-      "question": "600 points geography question",
-      "answer": "600 points geography answer",
-      "options": ["600 points geography option 1", "600 points geography option 2", "600 points geography option 3"]
+      "question": "پایتخت کشور نروژ چیست؟",
+      "answer": "اسلو",
+      "options": ["استکهلم", "اسلو", "کپنهاگ"]
     },
     "800": {
-      "question": "800 points geography question",
-      "answer": "800 points geography answer",
-      "options": ["800 points geography option 1", "800 points geography option 2", "800 points geography option 3"]
+      "question": "در کدام قاره کشور مصر واقع شده است؟",
+      "answer": "آفریقا",
+      "options": ["آسیا", "آفریقا", "اروپا"]
     },
     "1000": {
-      "question": "1000 points geography question",
-      "answer": "1000 points geography answer"
+      "question": "منطقه قطب جنوب دارای چه نوع اقلیمی است؟",
+      "answer": "اقلیم قطبی (خیلی سرد و خشک)"
     }
   }
 }
